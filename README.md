@@ -26,7 +26,7 @@
   <a href="mailto://francini.s.santo@gmail.com"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white></a>
   <a href="https://linkedin.com/in/francini-silva-840331239" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  
+ ![Snake animation](https://github.com/franciniss/franciniss/blob/output/github-contribution-grid-snake.svg)  
 </div>
 
 
