@@ -9,7 +9,7 @@ build:
     name: Jobs to update datas
     run-on: ubuntu-latest
     steps:
-      # Snake Animation
+    
       - uses: Platane/snk@master
         id: snake-gif
        with:
